@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashir! <br/>Cryptography Professional</a>, Software Engineer</a>, Mathematician</a></h1>
+<h1>Hi, I'm Ashir! <br/>Cryptography Associate</a>, Software Engineer</a>, Mathematician</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
