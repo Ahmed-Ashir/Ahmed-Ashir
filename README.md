@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice ()</b>
+- <b>Secure Hash Algoroithm 1</b>
   - [test name](link here)
 
 <h2> 🤳 Connect with me:</h2>
