@@ -2,8 +2,8 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Secure Hash Algoroithm 1</b>
-  - [test name](link here)
+- <b>Secure Hash Algoroithm 1  (https://github.com/Ahmed-Ashir/sha1)</b>
+- <b>RSA implementation  (https://github.com/Ahmed-Ashir/RSA-Python)</b>
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="Ahmed-Ashir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]: https://linkedin.com/in/ashirahmed16/
