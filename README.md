@@ -5,6 +5,16 @@
 - <b>Cryptography (Classical)</b>
   - [Secure Hash Algoroithm 1](https://github.com/Ahmed-Ashir/sha1)
   - [RSA implementation](https://github.com/Ahmed-Ashir/RSA-Python)
+  - (More coming soon)
+    
+- <b>Blockchain (Solidity)</b>
+  - (Coming soon)
+    
+- <b>Blockchain (Solana)</b>
+  - (Coming soon)
+    
+- <b>Other Projects</b>
+  - (Coming soon)
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="Ahmed-Ashir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]: https://linkedin.com/in/ashirahmed16/
