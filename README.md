@@ -7,10 +7,10 @@
   - [RSA implementation](https://github.com/Ahmed-Ashir/RSA-Python)
   - (More coming soon)
     
-- <b>Blockchain (Solidity)</b>
-  - (Coming soon)
-    
 - <b>Blockchain (Solana)</b>
+  - (Coming soon)
+
+- <b>Blockchain (Solidity)</b>
   - (Coming soon)
     
 - <b>Other Projects</b>
