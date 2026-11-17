@@ -13,6 +13,9 @@
 - <b>Blockchain (Solidity)</b>
   - (Coming soon)
     
+- <b>Cryptography (Modern/Post-Quantum)</b>
+  - (Coming soon)
+    
 - <b>Other Projects</b>
   - (Coming soon)
 
